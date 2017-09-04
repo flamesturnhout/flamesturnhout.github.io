@@ -1,0 +1,9 @@
+.float-right {
+	float: right;
+}
+
+iframe#map {
+	width: 100%;
+	height: 25em;
+	border: 0;
+}
